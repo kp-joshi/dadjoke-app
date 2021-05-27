@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dadjoke-app/static/css/main.75c41559.chunk.css",
+    "main.js": "/dadjoke-app/static/js/main.f19e6575.chunk.js",
+    "main.js.map": "/dadjoke-app/static/js/main.f19e6575.chunk.js.map",
+    "runtime-main.js": "/dadjoke-app/static/js/runtime-main.72051bc6.js",
+    "runtime-main.js.map": "/dadjoke-app/static/js/runtime-main.72051bc6.js.map",
+    "static/js/2.6b2ab09b.chunk.js": "/dadjoke-app/static/js/2.6b2ab09b.chunk.js",
+    "static/js/2.6b2ab09b.chunk.js.map": "/dadjoke-app/static/js/2.6b2ab09b.chunk.js.map",
+    "static/js/3.3736e4f1.chunk.js": "/dadjoke-app/static/js/3.3736e4f1.chunk.js",
+    "static/js/3.3736e4f1.chunk.js.map": "/dadjoke-app/static/js/3.3736e4f1.chunk.js.map",
+    "index.html": "/dadjoke-app/index.html",
+    "static/css/main.75c41559.chunk.css.map": "/dadjoke-app/static/css/main.75c41559.chunk.css.map",
+    "static/js/2.6b2ab09b.chunk.js.LICENSE.txt": "/dadjoke-app/static/js/2.6b2ab09b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72051bc6.js",
+    "static/js/2.6b2ab09b.chunk.js",
+    "static/css/main.75c41559.chunk.css",
+    "static/js/main.f19e6575.chunk.js"
+  ]
+}
